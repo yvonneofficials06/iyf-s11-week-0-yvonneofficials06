@@ -3,7 +3,7 @@
 
 ## About Me
 - I'm currently learning programming, at uify.
-- I'm interested in [your interests, e.g., "AI, web development, and data science"].
+- I'm interested in [web development e.g., "AI, web development.
 - I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
 
 ## Skills I'm Building
