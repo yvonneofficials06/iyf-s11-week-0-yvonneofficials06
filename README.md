@@ -2,7 +2,7 @@
 # Hi, I'm Yvonne 
 
 ## About Me
-- I'm currently learning programming, at uify.
+- I'm currently learning programming, at ify.
 - I'm interested in web development .
 - I'm looking to collaborate on  beginner-friendly open source projects.
 
